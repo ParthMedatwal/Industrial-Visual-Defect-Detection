@@ -6,7 +6,7 @@
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Quality_Control-red?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ResNet](https://img.shields.io/badge/ResNet--18-Transfer_Learning-blue?style=for-the-badge)
-![Accuracy](https://img.shields.io/badge/Accuracy-99.04%25-green?style=for-the-badge)
+
 
 **AI-powered visual inspection system for manufacturing quality control using deep learning and explainable AI**
 

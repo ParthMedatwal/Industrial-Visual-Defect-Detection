@@ -1,6 +1,7 @@
+<div align="center">
+
 # 🔍 Industrial Visual Defect Detection
 
-<div align="center">
 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Quality_Control-red?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)

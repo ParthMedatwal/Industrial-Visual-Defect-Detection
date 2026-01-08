@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Large raw data (do not commit dataset)
+data/
+mvtec_anomaly_detection/
+mvtec_ad/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
